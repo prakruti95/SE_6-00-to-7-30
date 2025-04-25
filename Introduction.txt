@@ -1,0 +1,49 @@
+Binary Language - 10
+
+Wifi : 
+tops@0987
+tops#0987
+
+System :
+tops?123
+
+Lecture Timings:
+M,W,F - 6:00 to 7:30[Fixed]
+T,T,S - Flexible[8:30 to 5:00]
+
+
+
+Account:
+Tops Career Center
+
+1)Personal Details:
+linkedin id
+insta id
+aadhar front,back
+
+2)Resume
+
+3)Education Details
+
+4)Register in recorded session
+
+5)Download Lecture Flow
+
+6)Download Handbook
+
+Github Account:
+Send me Link - in Whatsapp Group
+
+Pending:
+Github desktop
+Github Commands-cmd
+
+
+
+
+
+
+
+
+
+

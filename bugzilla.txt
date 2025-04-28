@@ -1,0 +1,58 @@
+Step 1:
+Login With tops details
+
+
+Step 2:
+Click on Admin
+Users:
+Create New Users
+Login:Total 4 Accounts
+1)2 developers
+2)2 Testers
+
+Step 3: Login with your Account
+
+Step 4: in Admin click on Products
+
+
+Add Product:
+pname : demoblaze
+des:functioanlity
+version:1.0
+
+Step 5: Click on Edit Componenets:
+Create Modules:
+
+Give name
+des
+email for developer
+
+Step 6:
+Click on Dashboard NEw Link
+Select component
+version
+Severity
+Hardware
+OS
+Summary-Actual Result
+description-Steps,Expected Result
+Attachment
+
+optional para:
+Priority
+Initial State
+Assign To
+CC
+
+Step 7:
+Developer will resolve from Browser Tab
+
+Step 8:
+Click on Search And Reopen Error
+Either You can save the CSV File
+
+
+
+
+
+

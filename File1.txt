@@ -1,0 +1,61 @@
+Testing:
+
+Website
+Mobile App
+Desktop Software
+
+Quality Matter
+
+QA => Quality Analyst
+QC => Quality Controller
+Tester =>Software Tester
+
+Fresher : QA or Tester
+Manual Testing
+
+Manual -> Automation
+
+System Password:tops?123
+Wifi:tops@0987
+
+Lectures:
+3 days : Tue,Thu,Sat[Lectures]-8:30 to 10:00
+other 3 days : Mon,Wed,Fri[Practice]-flexible
+
+
+Assignment:Module Wise[5]
+
+Assesment:Practicals[2]
+
+Project:Combine[1+1]
+
+Tops Carrer Center -> 
+Personal Details:
+Linkedin ID
+Adhard Card
+Resume
+Insta ID
+
+Education Details:
+
+Account: Github Account
+
+1)Create Account Using Signup
+2)Click on Create Repository[Green Button]
+Name : Testing_Workspace
+Create New File and give name test
+
+Create New Folder:Module1/Test
+Create New File:Module2
+
+
+
+
+
+
+
+
+
+
+
+

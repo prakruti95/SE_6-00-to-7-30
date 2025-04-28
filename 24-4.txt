@@ -1,0 +1,34 @@
+Manual Testing -> A Process which have to be followed Manually and you
+have to test everything manually.
+
+===========================================================
+Testing -> Testing a process to identify Correctness,Completeness
+and Quality of developed computer software.
+=============================================================
+
+Whatsapp:
+
+1)Correctness:
+Whatsapp
+image sharing -> low
+You can send your images in HD
+document format -> data use
+
+
+2)Completeness:Requirement Fullfill
+
+3)Quality:
+
+Tester:
+1)Websites
+2)Mobile App
+3)Desktop Software
+
+QA,QC,Tester
+Defect
+
+SwagLabs -> https://www.saucedemo.com/v1/index.html
+demoqa practice form -> https://demoqa.com/automation-practice-form
+
+
+

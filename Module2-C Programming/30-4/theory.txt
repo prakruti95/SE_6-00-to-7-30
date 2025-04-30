@@ -1,0 +1,52 @@
+\n -> new line
+\t -> tab
+
+1. Display This Information using printf
+a. Your Name
+b. Your Birth date
+c. Your Age
+d. Your Address
+
+Data type:
+
+numbers
+characters
+
+
+numeric -> integer -> int
+point value -> float -> float
+point lengthy value ->double -> double
+characters -> character -> char
+
+1)int -> 2 byte -> %d
+2)float -> 4 byte -> %f
+3)char -> 1 byte -> %c
+4)double -> 8 byte ->%lf
+5)long -> lengthy value
+
+variable -> any name
+rules:
+-> lowercase
+-> alphabets
+-> space are not allowed tops_tech
+
+
+
+characters
+
+
+int num1 = 9;
+int num2 = 5;
+
+addition
+subs
+multipli
+division
+modulus
+
+
+
+
+
+
+

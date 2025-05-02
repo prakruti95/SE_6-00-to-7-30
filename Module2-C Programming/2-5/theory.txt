@@ -1,0 +1,86 @@
+1)
+Arithmetic Operator:
++,-,,*,/,%
+
+2)
+Relational Operator:
+<,>,<=,>=,==,!=
+
+3)Shorthand Operator:
++=,-=,*=,/=,%=
+
+4)Logical Operator:
+&&,||
+
+
+
+
+c=a+b;
+a=a+b;
+
+
+
+<=35
+>=35
+==
+=
+!=
+
+
+Conditional statements:
+if
+else
+else if
+nested if
+switch
+case,break
+
+Loop:
+Entry Control Loop:
+1)for:
+for(initialization;condition;incre/decre)
+{
+}
+
+2)while:
+initialization;
+while(condition)
+{
+	incre/decre;
+	print
+}
+Exit Control Loop:
+3)do while:
+initialization;
+do
+{
+incre/decre;
+print
+}
+while(condition);
+
+int num=1234,rem,sum=0;
+while(num>0)
+{
+	rem = num%10;//4//3//2//1
+	sum+=rem;//sum=sum+rem=0+4=4+3=7+2=9+1=10
+	num=num/10;//123/10=12//1
+	
+}
+
+loop exit
+
+
+
+5987
+
+
+
+
+
+
+
+
+
+
+

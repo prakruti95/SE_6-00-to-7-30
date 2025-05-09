@@ -1,0 +1,11 @@
+function : repeated code
+
+1)Inbuilt Function
+2)User defined Function
+  a)with para with return type
+  b)with para without return type
+  c)with return type without para
+  d)without para without return type
+
+
+

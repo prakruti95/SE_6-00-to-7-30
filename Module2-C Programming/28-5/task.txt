@@ -1,0 +1,5 @@
+RESULT-2025
+
+take standard
+take details-20
+and display first 3 number with name
